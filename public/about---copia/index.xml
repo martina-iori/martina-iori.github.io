@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About on Martina Iori</title>
+    <link>http://localhost:1313/about---copia/</link>
+    <description>Recent content in About on Martina Iori</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 16 Dec 2024 11:30:04 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/about---copia/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about---copia/_index---copia/</link>
+      <pubDate>Mon, 16 Dec 2024 11:30:04 +0100</pubDate>
+      <guid>http://localhost:1313/about---copia/_index---copia/</guid>
+      <description>&lt;p&gt;👋🏻 Welcome to the demo page of Hugo&amp;rsquo;s theme &lt;code&gt;not-much&lt;/code&gt;!&lt;/p&gt;&#xA;&lt;p&gt;This theme is designed to be responsive, clean, simple and minimal. There are no useless features or fancy shortcodes included.&lt;/p&gt;&#xA;&lt;p&gt;You can get the it from the &lt;a href=&#34;https://github.com/imgios/not-much&#34;&gt;GitHub repository&lt;/a&gt;. Feel free to show your support by starring 🌟 the repository. Any contributions you make are greatly appreciated. If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply &lt;a href=&#34;https://github.com/imgios/not-much/issues/new?labels=enhancement&#34;&gt;open an issue&lt;/a&gt; with the tag &amp;ldquo;enhancement&amp;rdquo;.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
