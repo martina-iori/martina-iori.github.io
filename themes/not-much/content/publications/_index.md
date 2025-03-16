@@ -62,7 +62,7 @@ LEM Working Papers (ISSN 2284-0400) 2021/41, available at: [lem.sssup.it/WPLem/f
 
 - **M. Iori** and M. Fontana (2019), "Novelty as recombination of knowledge'', ISSI 2019 conference proceedings.
 
-### Policy Brief
+### Policy brief
 
 - M. Fontana, **M. Iori**, C.R. Nava, and P. Terna (2019), "Analysis of socio-economic drivers of switching behaviours in retail electricity
 markets. A report'', European Commission, JRC/PTT/0052/RC-AMI.
