@@ -51,7 +51,7 @@ showPostsSummary = true
     name = "cv"
     title = "CV"
     #url = "/cv"
-	url = "/doc/Iori_CV_March2025.pdf"
+	url = "/doc/iori_cv_march2025.pdf"
     weight = 4
 	
   [[menu.main]]

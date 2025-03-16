@@ -12,7 +12,7 @@ My research focuses on understanding the drivers of `innovation` and `scientific
 To achieve this, I combine econometric techniques, including causal inference, with advanced computational tools like natural language processing and network science. 
 I analyze large datasets of patents and scientific papers to generate evidence-based insights that can inform the design of effective science and innovation funding policies.
 
-Download my CV [here](/doc/Iori_CV_March2025.pdf).
+Download my CV [here](/doc/iori_cv_march2025.pdf).
 
 ![targets](/images/brain.png)
 
