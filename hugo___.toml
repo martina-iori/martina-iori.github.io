@@ -1,0 +1,4 @@
+baseURL = "https://martina-iori.github.io/"
+languageCode = 'en-us'
+title = 'Martina Iori'
+theme = 'not-much'

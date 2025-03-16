@@ -1,7 +1,64 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'Martina Iori'
+title = 'Martina Iori website'
 theme = 'not-much'
+languageCode = 'en-us'
+baseURL = 'https://martina-iori.github.io/'
+copyright = "Martina Iori © {year}"
 
-[params.meta]
-favicon = true
+[markup]
+  [markup.highlight]
+    style = 'dracula'
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+
+[params]
+theme = "dark"
+palette = "catpuccin"
+showThemeNotice = true
+showPostsSummary = true
+
+# Navigation
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "home"
+    title = "Home"
+    url = "/"
+    weight = 1
+  
+  [[menu.main]]
+    identifier = "about"
+    name = "about"
+    title = "About"
+    url = "/about"
+    weight = 2
+	
+  [[menu.main]]
+    identifier = "publications"
+    name = "publications"
+    title = "publications"
+    url = "/publications"
+    weight = 3
+  
+  [[menu.main]]
+    identifier = "cv"
+    name = "cv"
+    title = "CV"
+    #url = "/cv"
+	url = "/doc/iori_cv_march2025.pdf"
+    weight = 4
+	
+  [[menu.main]]
+    identifier = "contact"
+    name = "contact"
+    title = "contact"
+    url = "/contact"
+    weight = 5
+	
+  [[menu.main]]
+    identifier = "github"
+    name = "github"
+    title = "GitHub"
+    url = "https://github.com/martina-iori"
+    weight = 6

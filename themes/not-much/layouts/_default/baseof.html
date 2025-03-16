@@ -17,6 +17,7 @@
   </header> -->
   <main>
     {{ block "main" . }}{{ end }}
+	{{ partial "footer.html" . }}
   </main>
 
   {{ if .Param "math" }}

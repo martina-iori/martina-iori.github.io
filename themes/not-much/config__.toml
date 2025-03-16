@@ -3,11 +3,11 @@
 # from a subdir of the theme
 themesDir = "../../"
 
-title = "not-much demo"
+title = "Martina Iori website"
 theme = "not-much"
 languageCode = "en-us"
-baseURL = "https://example.org/"
-copyright = "Sample custom notice © {year}"
+baseURL = "https://martina-iori.github.io/"
+copyright = "Martina Iori © {year}"
 
 [markup]
   [markup.highlight]

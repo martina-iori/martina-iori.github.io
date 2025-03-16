@@ -31,5 +31,3 @@ Italy
 🦋 [martinaiori.bsky.social](https://bsky.app/profile/martinaiori.bsky.social)
 
 𝕏 [martina_iori](https://x.com/martina_iori)
-
-
