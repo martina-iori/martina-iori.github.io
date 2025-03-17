@@ -4,8 +4,8 @@ date = 2024-12-16T11:30:04+01:00
 draft = false
 +++
 
-I am a tenure-track Assistant Professor of Applied Economics at the Department of Economic Policy. 
-Before that, I held Assistant Professor (untenured) and postdoctoral positions at the Institute of Economics, Scuola Superiore Sant'Anna, Pisa. I earned my PhD in Economics from the University of Turin and Collegio Carlo Alberto, with prior master's degrees in Economics and Complexity (Collegio Carlo Alberto) and Theoretical Physics (University of Turin). 
+I am a tenure-track Assistant Professor of Applied Economics at the Department of Economic Policy, Università Cattolica del Sacro Cuore (Milan) and an Affiliate Researcher at the Institute of Economics, Scuola Superiore Sant'Anna (Pisa).
+Before that, I held Assistant Professor (untenured) and postdoctoral positions at Scuola Superiore Sant'Anna (Pisa). I earned my PhD in Economics from the University of Turin and Collegio Carlo Alberto, with prior master's degrees in Economics and Complexity (Collegio Carlo Alberto) and Theoretical Physics (University of Turin). 
 During my doctoral studies, I was a visiting scholar at the Department of Network and Data Science, Central European University, Budapest.
 
 My research focuses on understanding the drivers of `innovation` and `scientific discovery`. 
